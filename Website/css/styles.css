@@ -1,0 +1,50 @@
+body {
+    background-color: darkblue;
+    color: aliceblue;
+    /*text color*/
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+h5 {
+    text-align: center;
+    font-style: italic;
+    background-color:aqua;
+}
+a {
+    color: aqua;
+}
+a:visited {
+    color: chocolate
+}
+img {
+    border: 2px solid fuchsia;
+    padding: 3px;
+    margin: 5px;
+    /*center stuff*/
+    display: block;
+    margin: auto;
+}
+.rizz{
+    text-align: center;
+    font-style: italic;
+    font-family: fantasy;
+    color: gold;
+    font-size: 14pt;
+}
+.rizz:hover{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-style: normal;
+    color: ivory;
+}
+li{
+    text-decoration: overline;
+    background-color: darkslategrey;
+    left: 0px;
+}
+li:hover{
+    text-decoration: underline;
+}
